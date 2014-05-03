@@ -1,4 +1,4 @@
-# [gulp](http://gulpjs.com)-ext [![Build Status](https://travis-ci.org/floatdrop/gulp-ext.svg?branch=master)](https://travis-ci.org/floatdrop/gulp-ext)
+# [gulp](http://gulpjs.com)-ext [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url]
 
 > File extension utility
 
@@ -46,3 +46,9 @@ Replaces whole extension on `extension` argument or only matching pattern.
 ## License
 
 MIT © [Vsevolod Strukchinsky](https://github.com/floatdrop)
+
+[npm-url]: https://npmjs.org/package/gulp-ext
+[npm-image]: https://badge.fury.io/js/gulp-ext.png
+
+[travis-url]: http://travis-ci.org/floatdrop/gulp-ext
+[travis-image]: https://travis-ci.org/floatdrop/gulp-ext.png?branch=master
