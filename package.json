@@ -1,0 +1,31 @@
+{
+  "name": "gulp-ext",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "repository": "floatdrop/gulp-ext",
+  "author": {
+    "name": "Vsevolod Strukchinsky",
+    "email": "floatdrop@gmail.com",
+    "url": "https://github.com/floatdrop"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "through2": "~0.4.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
