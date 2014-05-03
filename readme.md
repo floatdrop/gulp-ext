@@ -1,5 +1,4 @@
-# [gulp](http://gulpjs.com)-ext [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url]
-
+# [gulp](http://gulpjs.com)-ext [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 > File extension utility
 
 Help replace / crop / append file extensions.
